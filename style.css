@@ -1,0 +1,130 @@
+body {
+    margin:0px;
+    padding:0px;
+    min-width: fit-content;
+}
+
+
+.mainbox {
+    width: 610px;
+    padding: 30px;
+    margin: 30px;
+    margin-right:auto;
+    margin-left: auto;
+    border: 1px soild black;
+    box-shadow: 0 1px 20px 0 reba(0, 0, 0, 0.2);
+}
+  
+  
+section {
+    margin-bottom:24px;
+}
+  
+h1{
+    margin:0px;
+    padding:0px;
+    font-size:36px;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 8px;
+    text-align: right;
+}
+
+h2 {
+    margin:0px;
+    padding:0px;
+    font-size:20px;
+    color: #DAA520;
+    font-weight: 400;
+    margin-bottom: 16px;
+    border-bottom: 1px solid #3d3c3c;
+    padding-bottom: 5px;
+}
+
+
+
+.frog{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    float: left;
+}
+
+.title{
+    font-size:16px;
+    color:#7c7c7c;
+    font-weight: bold;
+    float: right;
+    line-height: 16px;
+}
+  
+.sns{
+    text-align: left;
+}
+
+.sns-img{
+    width: 30px;
+    height: 30px;
+}
+
+.float-wrap {
+    overflow: hidden;
+    margin-bottom: 4px;
+}
+
+.text{
+    line-height: 16px;
+    font-size: 13px;
+    font-weight:bold;
+    color:black;
+    margin-bottom:6px;
+}
+
+.small-text {
+    font-size: 10px; 
+    vertical-align: bottom; 
+    color: black;
+}
+
+.emoji-button {
+    font-size: 24px;
+    text-decoration: none; 
+    color: inherit; 
+    float: right;
+}
+
+.emoji-button img {
+    width: 50px; 
+    height: 50px; 
+    cursor: pointer; 
+    float: right;
+}
+
+.emoji-normal{
+    font-size: 24px;
+    text-decoration: none; 
+    color: inherit; 
+    float: right;
+}
+
+.button {
+    display: inline-block;
+    padding: 6px 10px; 
+    margin: 5px;
+    border-radius: 3px; 
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 13px;
+}
+  
+.github {
+      background-color: #333;
+}
+    
+.instagram {
+      background-color: #E4405F;
+}
+  
+  
